@@ -1,2 +1,0 @@
-# javabots
-DevX Javabots Team
